@@ -1,2 +1,9 @@
 # Wokwi-1
-Wokqi
+Alumnos: Díaz Melión, Danilo
+Sojka, Santiago
+De Blasi, Luca
+
+Taller: CySdC
+Año: 6to 2 Aviónica
+
+Link: https://wokwi.com/projects/357959003725467649
