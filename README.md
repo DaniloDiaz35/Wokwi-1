@@ -1,7 +1,8 @@
 # Wokwi-1
-Alumnos: Díaz Melión, Danilo
-Sojka, Santiago
-De Blasi, Luca
+Alumnos: Díaz Melión Danilo;
+Sojka Santiago;
+De Blasi Luca;
+Montenegro Luciano;
 
 Taller: CySdC
 
