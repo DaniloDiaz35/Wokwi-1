@@ -2,7 +2,7 @@
 Alumnos: Díaz Melión Danilo;
 Sojka Santiago;
 De Blasi Luca;
-Montenegro Luciano;
+Montenegro Luciano
 
 Taller: CySdC
 
